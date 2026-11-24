@@ -1,0 +1,6 @@
+{
+  "uuid": "brimdeck@brimdeck.local",
+  "name": "BrimDeck",
+  "description": "Show BrimDeck quotas and CPU usage beside the system clock.",
+  "shell-version": ["46"]
+}

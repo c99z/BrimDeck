@@ -1,0 +1,4 @@
+.brimdeck-row { spacing: 5px; }
+.brimdeck-ring { width: 19px; height: 19px; }
+.brimdeck-letter { font-size: 9px; font-weight: bold; }
+.brimdeck-cpu { color: #64d2ff; font-size: 12px; min-width: 34px; text-align: right; font-feature-settings: "tnum"; }
